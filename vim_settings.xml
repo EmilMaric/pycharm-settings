@@ -8,11 +8,11 @@
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/engine.py" timestamp="1481972342956">
-        <mark key="[" line="49" column="38" />
-        <mark key="]" line="49" column="44" />
-        <mark key="^" line="49" column="44" />
-        <mark key="." line="49" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/engine.py" timestamp="1481975389787">
+        <mark key="[" line="56" column="30" />
+        <mark key="]" line="57" column="15" />
+        <mark key="." line="57" column="15" />
+        <mark key="^" line="57" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/requirements.txt" timestamp="1481970066299">
         <mark key="[" line="6" column="0" />
@@ -34,53 +34,59 @@
         <mark key="^" line="45" column="12" />
         <mark key="." line="45" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/downloader.py" timestamp="1481972265063">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="20" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/downloader.py" timestamp="1481975343773">
+        <mark key="[" line="21" column="65" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/db_pipeline.py" timestamp="1481972143111">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="10" column="47" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/db_pipeline.py" timestamp="1481975212992">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="30" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIG9ubHkgb25lIG9mIHRoZXNlIGNhbiBiZSBzZXQK</text>
+      </register>
+      <register name="-" type="4">
+        <text>t</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9ob3N0ID0gc2V0dGluZ3MuZ2V0KCdEYXRhYmFzZScsICdEQl9IT1NUJykKICAgICAgICBzZWxmLl9wb3J0ID0gc2V0dGluZ3MuZ2V0aW50KCdEYXRhYmFzZScsICdEQl9QT1JUJykKICAgICAgICBzZWxmLl9kYl9uYW1lID0gc2V0dGluZ3MuZ2V0KCdEYXRhYmFzZScsICdEQl9OQU1FJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fZGJfbmFtZSBub3QgaW4gc2VsZi5fY29ubmVjdGlvbi5kYXRhYmFzZV9uYW1lcygpOgogICAgICAgICAgICAgICAgcmFpc2UgREJFeGNlcHRpb24oIkRhdGFiYXNlICd7fScgZG9lcyBub3QgZXhpc3QgYXQgaG9zdCAne30nLiIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgIHNlbGYuX2RiX25hbWUsCiAgICAgICAgICAgICAgICAgICAgc2VsZi5faG9zdAogICAgICAgICAgICAgICAgKSkKICAgICAgICBleGNlcHQgcHltb25nby5lcnJvcnMuU2VydmVyU2VsZWN0aW9uVGltZW91dEVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2UgREJFeGNlcHRpb24oIkNhbiBub3QgY29ubmVjdCB0byBkYXRhYmFzZSBob3N0ICd7fScuIi5mb3JtYXQoc2VsZi5faG9zdCkpIGZyb20gZXJyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9wcm94aWVzID0gc2V0dGluZ3MuZ2V0KCdTY3JhcGVyJywgJ1BST1hJRVMnKS5zcGxpdCgpCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>self._settings</text>
+        <text encoding="base64">ICAgICAgICAjIG9ubHkgb25lIG9mIHRoZXNlIGNhbiBiZSBzZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9ob3N0ID0gc2V0dGluZ3MuZ2V0KCdEYXRhYmFzZScsICdEQl9IT1NUJykKICAgICAgICBzZWxmLl9wb3J0ID0gc2V0dGluZ3MuZ2V0aW50KCdEYXRhYmFzZScsICdEQl9QT1JUJykKICAgICAgICBzZWxmLl9kYl9uYW1lID0gc2V0dGluZ3MuZ2V0KCdEYXRhYmFzZScsICdEQl9OQU1FJykK</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbGxlY3QgaW1wb3J0YW50IHNldHRpbmdzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYuX2Nvbm5lY3Rpb24gPSBweW1vbmdvLk1vbmdvQ2xpZW50KHNlbGYuX2hvc3QsIHNlbGYuX3BvcnQpCiAgICAgICAgICAgIGlmIHNlbGYuX2RiX25hbWUgbm90IGluIHNlbGYuX2Nvbm5lY3Rpb24uZGF0YWJhc2VfbmFtZXMoKToKICAgICAgICAgICAgICAgIHJhaXNlIERCRXhjZXB0aW9uKCJEYXRhYmFzZSAne30nIGRvZXMgbm90IGV4aXN0IGF0IGhvc3QgJ3t9Jy4iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBzZWxmLl9kYl9uYW1lLAogICAgICAgICAgICAgICAgICAgIHNlbGYuX2hvc3QKICAgICAgICAgICAgICAgICkpCiAgICAgICAgZXhjZXB0IHB5bW9uZ28uZXJyb3JzLlNlcnZlclNlbGVjdGlvblRpbWVvdXRFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIERCRXhjZXB0aW9uKCJDYW4gbm90IGNvbm5lY3QgdG8gZGF0YWJhc2UgaG9zdCAne30nLiIuZm9ybWF0KHNlbGYuX2hvc3QpKSBmcm9tIGVycgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXR0aW5ncyA9IFNldHRpbmdzKFNFVFRJTkdTX1BBVEgpCiAgICAgICAgc2VsZi5fZGIgPSBEQlBpcGVsaW5lKHNlbGYuX3NldHRpbmdzKQogICAgICAgIHNlbGYuX2Rvd25sb2FkZXIgPSBEb3dubG9hZGVyKHNlbGYuX3NldHRpbmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXR0aW5ncyA9IFNldHRpbmdzKFNFVFRJTkdTX1BBVEgpCiAgICAgICAgc2VsZi5fZGIgPSBEQlBpcGVsaW5lKHNlbGYuX3NldHRpbmdzKQogICAgICAgIHNlbGYuX2Rvd25sb2FkZXIgPSBEb3dubG9hZGVyKHNlbGYuX3NldHRpbmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fZGIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBweW1vbmdvLmVycm9ycyBpbXBvcnQgSW52YWxpZElkCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VHdpc3RlZD09MTYuNC4xCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9wcm94aWVzID0gc2V0dGluZ3MuZ2V0KCdTY3JhcGVyJywgJ1BST1hJRVMnKS5zcGxpdCgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9ob3N0ID0gc2V0dGluZ3MuZ2V0KCdEYXRhYmFzZScsICdEQl9IT1NUJykKICAgICAgICBzZWxmLl9wb3J0ID0gc2V0dGluZ3MuZ2V0aW50KCdEYXRhYmFzZScsICdEQl9QT1JUJykKICAgICAgICBzZWxmLl9kYl9uYW1lID0gc2V0dGluZ3MuZ2V0KCdEYXRhYmFzZScsICdEQl9OQU1FJykK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHBkYgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>self._settings</text>
       </register>
     </registers>
     <search>
