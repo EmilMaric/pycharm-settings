@@ -3,20 +3,99 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/app.py" timestamp="1481970494584">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/engine.py" timestamp="1481972342956">
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="44" />
+        <mark key="^" line="49" column="44" />
+        <mark key="." line="49" column="44" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/requirements.txt" timestamp="1481970066299">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/settings.py" timestamp="1481971449244">
+        <mark key="[" line="22" column="94" />
+        <mark key="]" line="22" column="93" />
+        <mark key="." line="22" column="93" />
+        <mark key="^" line="22" column="93" />
+      </file>
+      <file name="/Python Console" timestamp="1481971472975">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/stats_collector.py" timestamp="1481969144395">
         <mark key="[" line="45" column="13" />
         <mark key="]" line="45" column="12" />
         <mark key="^" line="45" column="12" />
         <mark key="." line="45" column="12" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/downloader.py" timestamp="1481972265063">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="20" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/db_pipeline.py" timestamp="1481972143111">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="10" column="47" />
+        <mark key="." line="12" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9ob3N0ID0gc2V0dGluZ3MuZ2V0KCdEYXRhYmFzZScsICdEQl9IT1NUJykKICAgICAgICBzZWxmLl9wb3J0ID0gc2V0dGluZ3MuZ2V0aW50KCdEYXRhYmFzZScsICdEQl9QT1JUJykKICAgICAgICBzZWxmLl9kYl9uYW1lID0gc2V0dGluZ3MuZ2V0KCdEYXRhYmFzZScsICdEQl9OQU1FJykK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9wcm94aWVzID0gc2V0dGluZ3MuZ2V0KCdTY3JhcGVyJywgJ1BST1hJRVMnKS5zcGxpdCgpCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>self._settings</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9ob3N0ID0gc2V0dGluZ3MuZ2V0KCdEYXRhYmFzZScsICdEQl9IT1NUJykKICAgICAgICBzZWxmLl9wb3J0ID0gc2V0dGluZ3MuZ2V0aW50KCdEYXRhYmFzZScsICdEQl9QT1JUJykKICAgICAgICBzZWxmLl9kYl9uYW1lID0gc2V0dGluZ3MuZ2V0KCdEYXRhYmFzZScsICdEQl9OQU1FJykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHBkYgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXR0aW5ncyA9IFNldHRpbmdzKFNFVFRJTkdTX1BBVEgpCiAgICAgICAgc2VsZi5fZGIgPSBEQlBpcGVsaW5lKHNlbGYuX3NldHRpbmdzKQogICAgICAgIHNlbGYuX2Rvd25sb2FkZXIgPSBEb3dubG9hZGVyKHNlbGYuX3NldHRpbmdzKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXR0aW5ncyA9IFNldHRpbmdzKFNFVFRJTkdTX1BBVEgpCiAgICAgICAgc2VsZi5fZGIgPSBEQlBpcGVsaW5lKHNlbGYuX3NldHRpbmdzKQogICAgICAgIHNlbGYuX2Rvd25sb2FkZXIgPSBEb3dubG9hZGVyKHNlbGYuX3NldHRpbmdzKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBweW1vbmdvLmVycm9ycyBpbXBvcnQgSW52YWxpZElkCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">VHdpc3RlZD09MTYuNC4xCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>self._settings</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
