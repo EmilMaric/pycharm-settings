@@ -8,11 +8,11 @@
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/engine.py" timestamp="1481975389787">
-        <mark key="[" line="56" column="30" />
-        <mark key="]" line="57" column="15" />
-        <mark key="." line="57" column="15" />
-        <mark key="^" line="57" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/engine.py" timestamp="1482309421853">
+        <mark key="[" line="63" column="72" />
+        <mark key="]" line="64" column="27" />
+        <mark key="." line="64" column="27" />
+        <mark key="^" line="64" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/requirements.txt" timestamp="1481970066299">
         <mark key="[" line="6" column="0" />
@@ -45,6 +45,12 @@
         <mark key="]" line="15" column="30" />
         <mark key="." line="15" column="30" />
         <mark key="^" line="15" column="30" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/utils.py" timestamp="1482309137120">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -94,9 +100,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
