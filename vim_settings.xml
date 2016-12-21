@@ -34,11 +34,11 @@
         <mark key="^" line="45" column="12" />
         <mark key="." line="45" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/scraper.py" timestamp="1482311768155">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="38" column="16" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/scraper.py" timestamp="1482312687838">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/downloader.py" timestamp="1481975343773">
         <mark key="[" line="21" column="65" />
@@ -61,11 +61,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lkID0gaW50KHN0cih1dWlkLnV1aWQ0KCkuaW50KVs6Nl0pCiAgICAgICAgICAgIHF1ZXVlX2lkID0gY2xvbmVfc2lkIGlmIGNsb25lX3NpZCBlbHNlIHNpZAogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBkYltEQl9DT0xfU0NSQVBFUlNdLmluc2VydF9vbmUoewogICAgICAgICAgICAgICAgICAgICdfaWQnOiBzaWQsCiAgICAgICAgICAgICAgICAgICAgJ3F1ZXVlX2lkJzogcXVldWVfaWQsCiAgICAgICAgICAgICAgICAgICAgJ3N0YXJ0X3RpbWUnOiB0aW1lLnN0cmZ0aW1lKERBVEVfRk9STUFUKSwKICAgICAgICAgICAgICAgICAgICAnc3RhdGUnOiBTdGF0ZS5SVU5OSU5HCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgcmV0dXJuIGNscy5nZXRfc2NyYXBlcihkYiwgc2lkKQogICAgICAgICAgICBleGNlcHQgRHVwbGljYXRlS2V5RXJyb3I6CiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2lkID0gaW50KHN0cih1dWlkLnV1aWQ0KCkuaW50KVs6Nl0pCiAgICAgICAgICAgIHF1ZXVlX2lkID0gY2xvbmVfc2lkIGlmIGNsb25lX3NpZCBlbHNlIHNpZAogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBkYltEQl9DT0xfU0NSQVBFUlNdLmluc2VydF9vbmUoewogICAgICAgICAgICAgICAgICAgICdfaWQnOiBzaWQsCiAgICAgICAgICAgICAgICAgICAgJ3F1ZXVlX2lkJzogcXVldWVfaWQsCiAgICAgICAgICAgICAgICAgICAgJ3N0YXJ0X3RpbWUnOiB0aW1lLnN0cmZ0aW1lKERBVEVfRk9STUFUKSwKICAgICAgICAgICAgICAgICAgICAnc3RhdGUnOiBTdGF0ZS5SVU5OSU5HCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgcmV0dXJuIGNscy5nZXRfc2NyYXBlcihkYiwgc2lkKQogICAgICAgICAgICBleGNlcHQgRHVwbGljYXRlS2V5RXJyb3I6CiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
