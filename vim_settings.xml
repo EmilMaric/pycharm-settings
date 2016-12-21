@@ -34,11 +34,11 @@
         <mark key="^" line="45" column="12" />
         <mark key="." line="45" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/scraper.py" timestamp="1482314694001">
-        <mark key="[" line="41" column="22" />
-        <mark key="]" line="41" column="22" />
-        <mark key="^" line="40" column="14" />
-        <mark key="." line="41" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/scraper.py" timestamp="1482316183605">
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="50" column="35" />
+        <mark key="." line="50" column="35" />
+        <mark key="^" line="50" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/downloader.py" timestamp="1481975343773">
         <mark key="[" line="21" column="65" />
@@ -61,41 +61,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cGFyZW50IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IG9ubHkgYWxsb3cgdXNlciB0byBhZGQgbmV3IHNjcmFwZXJzIHRvIGV4aXNpdG5nIHNjcmFwZXMuIFVzZXIgY2FuIHN0aWxsIGFkZCBzY3JhcGVycyB0byBTSURzIHRoYXQgYXJlIG5vdCBvcmlnaW5hdGluZyBzY3JhcGVycy4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGFyZW50IA==</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBjbG9uZV9zaWQ6CiAgICAgICAgICAgICMgdmVyaWZ5IHRoYXQgcGFyZW50IENJRCBpcyBjbG9uZWFibGUKICAgICAgICAgICAgc2NyYXBlciA9IGNscy5fZ2V0X3NjcmFwZXIoY2xvbmVfc2lkKQogICAgICAgICAgICBzY3JhcGVyX3N0YXRlID0gc2NyYXBlci5nZXQoJ3N0YXRlJykKICAgICAgICAgICAgaWYgc2NyYXBlcl9zdGF0ZSAhPSBTdGF0ZS5SVU5OSU5HIGFuZCBcCiAgICAgICAgICAgICAgIHNjcmFwZXJfc3RhdGUgIT0gU3RhdGUuUEFVU0VEOgogICAgICAgICAgICAgICAgcmFpc2UgU2NyYXBlckV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAiQ3Jhd2xlciBtdXN0IGJlIHJ1bm5pbmcgb3IgcGF1c2VkIGluIG9yZGVyIHRvIGJlIGNsb25lZC4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfdGltZSA9IHRpbWUuc3RyZnRpbWUoREFURV9GT1JNQVQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IG9ubHkgYWxsb3cgdXNlciB0byBhZGQgbmV3IHNjcmFwZXJzIHRvIGV4aXNpdG5nIHNjcmFwZXMuIFVzZXIgY2FuIHN0aWxsIGFkZCBzY3JhcGVycyB0byBTSURzIHRoYXQgYXJlIG5vdCBvcmlnaW5hdGluZyBzY3JhcGVycy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2NyYXBlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzY3JhcGVyOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjcmFwZXIgPSBTY3JhcGVyKCkKICAgIHNjcmFwZXIuc2lkID0KICAgIHJldHVybiBkYltEQl9DT0xfU0NSQVBFUlNdLmZpbmRfb25lKHsnX2lkJzogc2lkfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfdGltZSA9IHRpbWUuc3RyZnRpbWUoREFURV9GT1JNQVQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBxdWV1ZV9pZCA9IGNsb25lX3NpZCBpZiBjbG9uZV9zaWQgZWxzZSBzaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2NyYXBlcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVmIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9ubHkgb25lIG9mIHRoZXNlIGNhbiBiZSBzZXQK</text>
+        <text encoding="base64">ICAgICAgICBxdWV1ZV9pZCA9IGNsb25lX3NpZCBpZiBjbG9uZV9zaWQgZWxzZSBzaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbGxlY3QgaW1wb3J0YW50IHNldHRpbmdzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
