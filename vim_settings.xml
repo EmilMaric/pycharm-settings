@@ -25,6 +25,12 @@
         <mark key="." line="22" column="93" />
         <mark key="^" line="22" column="93" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/worker.py" timestamp="1482356521723">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
+      </file>
       <file name="/Python Console" timestamp="1481971472975">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,6 +45,9 @@
         <mark key="]" line="50" column="35" />
         <mark key="." line="50" column="35" />
         <mark key="^" line="50" column="35" />
+      </file>
+      <file name="/a.dummy" timestamp="1482356415955">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/downloader.py" timestamp="1481975343773">
         <mark key="[" line="21" column="65" />
@@ -61,11 +70,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IG9ubHkgYWxsb3cgdXNlciB0byBhZGQgbmV3IHNjcmFwZXJzIHRvIGV4aXNpdG5nIHNjcmFwZXMuIFVzZXIgY2FuIHN0aWxsIGFkZCBzY3JhcGVycyB0byBTSURzIHRoYXQgYXJlIG5vdCBvcmlnaW5hdGluZyBzY3JhcGVycy4K</text>
+      <register name="&quot;" type="4">
+        <text>scraper</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>scraper</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBjbG9uZV9zaWQ6CiAgICAgICAgICAgICMgdmVyaWZ5IHRoYXQgcGFyZW50IENJRCBpcyBjbG9uZWFibGUKICAgICAgICAgICAgc2NyYXBlciA9IGNscy5fZ2V0X3NjcmFwZXIoY2xvbmVfc2lkKQogICAgICAgICAgICBzY3JhcGVyX3N0YXRlID0gc2NyYXBlci5nZXQoJ3N0YXRlJykKICAgICAgICAgICAgaWYgc2NyYXBlcl9zdGF0ZSAhPSBTdGF0ZS5SVU5OSU5HIGFuZCBcCiAgICAgICAgICAgICAgIHNjcmFwZXJfc3RhdGUgIT0gU3RhdGUuUEFVU0VEOgogICAgICAgICAgICAgICAgcmFpc2UgU2NyYXBlckV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAiQ3Jhd2xlciBtdXN0IGJlIHJ1bm5pbmcgb3IgcGF1c2VkIGluIG9yZGVyIHRvIGJlIGNsb25lZC4iKQo=</text>
