@@ -25,14 +25,21 @@
         <mark key="." line="22" column="93" />
         <mark key="^" line="22" column="93" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/worker.py" timestamp="1482356521723">
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="15" />
-        <mark key="." line="23" column="15" />
-        <mark key="^" line="23" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/worker.py" timestamp="1482358296520">
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="66" column="32" />
+        <mark key="^" line="66" column="32" />
+        <mark key="." line="66" column="32" />
       </file>
       <file name="/Python Console" timestamp="1481971472975">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/scrape.py" timestamp="1482358235474">
+        <mark key="'" line="45" column="14" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="39" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/stats_collector.py" timestamp="1481969144395">
         <mark key="[" line="45" column="13" />
@@ -55,11 +62,11 @@
         <mark key="." line="22" column="30" />
         <mark key="^" line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/db_pipeline.py" timestamp="1481975212992">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="15" column="30" />
-        <mark key="." line="15" column="30" />
-        <mark key="^" line="15" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/constants.py" timestamp="1482358053954">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/utils.py" timestamp="1482309137120">
         <mark key="[" line="66" column="0" />
@@ -67,44 +74,52 @@
         <mark key="^" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/db_pipeline.py" timestamp="1481975212992">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="30" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="45" column="14" filename="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/scrape.py" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>scraper</text>
+        <text>scrape</text>
       </register>
       <register name="-" type="4">
-        <text>scraper</text>
+        <text>scrape</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBjbG9uZV9zaWQ6CiAgICAgICAgICAgICMgdmVyaWZ5IHRoYXQgcGFyZW50IENJRCBpcyBjbG9uZWFibGUKICAgICAgICAgICAgc2NyYXBlciA9IGNscy5fZ2V0X3NjcmFwZXIoY2xvbmVfc2lkKQogICAgICAgICAgICBzY3JhcGVyX3N0YXRlID0gc2NyYXBlci5nZXQoJ3N0YXRlJykKICAgICAgICAgICAgaWYgc2NyYXBlcl9zdGF0ZSAhPSBTdGF0ZS5SVU5OSU5HIGFuZCBcCiAgICAgICAgICAgICAgIHNjcmFwZXJfc3RhdGUgIT0gU3RhdGUuUEFVU0VEOgogICAgICAgICAgICAgICAgcmFpc2UgU2NyYXBlckV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAiQ3Jhd2xlciBtdXN0IGJlIHJ1bm5pbmcgb3IgcGF1c2VkIGluIG9yZGVyIHRvIGJlIGNsb25lZC4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IG9ubHkgYWxsb3cgdXNlciB0byBhZGQgbmV3IHNjcmFwZXJzIHRvIGV4aXNpdG5nIHNjcmFwZXMuIFVzZXIgY2FuIHN0aWxsIGFkZCBzY3JhcGVycyB0byBTSURzIHRoYXQgYXJlIG5vdCBvcmlnaW5hdGluZyBzY3JhcGVycy4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2NyYXBlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzY3JhcGVyOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzY3JhcGUuc3RhdGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNjcmFwZXIgPSBTY3JhcGVyKCkKICAgIHNjcmFwZXIuc2lkID0KICAgIHJldHVybiBkYltEQl9DT0xfU0NSQVBFUlNdLmZpbmRfb25lKHsnX2lkJzogc2lkfSkK</text>
+        <text encoding="base64">ZGVmIGZldGNoX3NjcmFwZShkYiwgc2lkKToKICAgIHJlcyA9IGRiW0RCX0NPTF9TQ1JBUEVSU10uZmluZF9vbmUoeydfaWQnOiBzaWR9KQogICAgaWYgcmVzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfdGltZSA9IHRpbWUuc3RyZnRpbWUoREFURV9GT1JNQVQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHdvcmtlcklEIHZzIHNjcmFwZUlECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2NyYXBlcigpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHF1ZXVlX2lkKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9xdWV1ZV9pZAoKICAgIEBxdWV1ZV9pZC5zZXR0ZXIKICAgIGRlZiBxdWV1ZV9pZChzZWxmLCBxdWV1ZV9pZCk6CiAgICAgICAgc2VsZi5fcXVldWVfaWQgPSBxdWV1ZV9pZAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IG9ubHkgYWxsb3cgdXNlciB0byBhZGQgbmV3IHNjcmFwZXJzIHRvIGV4aXNpdG5nIHNjcmFwZXMuIFVzZXIgY2FuIHN0aWxsIGFkZCBzY3JhcGVycyB0byBTSURzIHRoYXQgYXJlIG5vdCBvcmlnaW5hdGluZyBzY3JhcGVycy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBxdWV1ZV9pZCA9IGNsb25lX3NpZCBpZiBjbG9uZV9zaWQgZWxzZSBzaWQK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzY3JhcGVyOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNjcmFwZXIgPSBTY3JhcGVyKCkKICAgIHNjcmFwZXIuc2lkID0KICAgIHJldHVybiBkYltEQl9DT0xfU0NSQVBFUlNdLmZpbmRfb25lKHsnX2lkJzogc2lkfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -117,6 +132,7 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
