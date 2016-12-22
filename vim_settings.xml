@@ -8,11 +8,11 @@
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/engine.py" timestamp="1482310396619">
-        <mark key="[" line="61" column="79" />
-        <mark key="]" line="62" column="44" />
-        <mark key="." line="62" column="44" />
-        <mark key="^" line="62" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/engine.py" timestamp="1482365756652">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="87" column="28" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/requirements.txt" timestamp="1481970066299">
         <mark key="[" line="6" column="0" />
@@ -25,21 +25,21 @@
         <mark key="." line="22" column="93" />
         <mark key="^" line="22" column="93" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/worker.py" timestamp="1482358296520">
-        <mark key="[" line="66" column="30" />
-        <mark key="]" line="66" column="32" />
-        <mark key="^" line="66" column="32" />
-        <mark key="." line="66" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/worker.py" timestamp="1482364252991">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="51" column="24" />
+        <mark key="^" line="279" column="0" />
+        <mark key="." line="279" column="0" />
       </file>
       <file name="/Python Console" timestamp="1481971472975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/scrape.py" timestamp="1482358235474">
-        <mark key="'" line="45" column="14" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="39" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/scrape.py" timestamp="1482365745412">
+        <mark key="'" line="84" column="14" />
+        <mark key="[" line="57" column="25" />
+        <mark key="]" line="58" column="40" />
+        <mark key="." line="58" column="40" />
+        <mark key="^" line="58" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/stats_collector.py" timestamp="1481969144395">
         <mark key="[" line="45" column="13" />
@@ -62,75 +62,87 @@
         <mark key="." line="22" column="30" />
         <mark key="^" line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/constants.py" timestamp="1482358053954">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/constants.py" timestamp="1482364568193">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/utils.py" timestamp="1482309137120">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/utils.py" timestamp="1482364642335">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/db_pipeline.py" timestamp="1481975212992">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="15" column="30" />
-        <mark key="." line="15" column="30" />
-        <mark key="^" line="15" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/db_pipeline.py" timestamp="1482363499928">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/errors.py" timestamp="1482360181547">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
       </file>
     </filemarks>
     <jumps>
       <jump line="45" column="14" filename="$USER_HOME$/PycharmProjects/Vanir-Amazon-Scraper/vanir_amazon_scraper/scrape.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>scrape</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9wb3J0ID0gc2VsZi5fc2V0dGluZ3MuZ2V0aW50KCdTY3JhcGVyJywgJ0FQUF9QT1JUJykK</text>
       </register>
       <register name="-" type="4">
-        <text>scrape</text>
+        <text>port</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx0aGF0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjbG9uZV9zaWQ6CiAgICAgICAgICAgICMgdmVyaWZ5IHRoYXQgcGFyZW50IENJRCBpcyBjbG9uZWFibGUKICAgICAgICAgICAgc2NyYXBlciA9IGNscy5fZ2V0X3NjcmFwZXIoY2xvbmVfc2lkKQogICAgICAgICAgICBzY3JhcGVyX3N0YXRlID0gc2NyYXBlci5nZXQoJ3N0YXRlJykKICAgICAgICAgICAgaWYgc2NyYXBlcl9zdGF0ZSAhPSBTdGF0ZS5SVU5OSU5HIGFuZCBcCiAgICAgICAgICAgICAgIHNjcmFwZXJfc3RhdGUgIT0gU3RhdGUuUEFVU0VEOgogICAgICAgICAgICAgICAgcmFpc2UgU2NyYXBlckV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAiQ3Jhd2xlciBtdXN0IGJlIHJ1bm5pbmcgb3IgcGF1c2VkIGluIG9yZGVyIHRvIGJlIGNsb25lZC4iKQo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGhvc3Qoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2hvc3QKCiAgICBAcHJvcGVydHkKICAgIGRlZiBwaWQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX3BpZAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHBvcnQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX3BvcnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2NyYXBlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9wb3J0ID0gc2VsZi5fc2V0dGluZ3MuZ2V0aW50KCdTY3JhcGVyJywgJ0FQUF9QT1JUJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzY3JhcGUuc3RhdGUK</text>
+        <text encoding="base64">IyAgICBvcy5zeXN0ZW0oJ3N1ZG8gdG91Y2gge30nLmZvcm1hdChsb2dmaWxlX3BhdGgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGZldGNoX3NjcmFwZShkYiwgc2lkKToKICAgIHJlcyA9IGRiW0RCX0NPTF9TQ1JBUEVSU10uZmluZF9vbmUoeydfaWQnOiBzaWR9KQogICAgaWYgcmVzOgo=</text>
+        <text encoding="base64">REJfV09SS0VSUyA9ICJ3b3JrZXJzIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHdvcmtlcklEIHZzIHNjcmFwZUlECg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl93b3JrZXIgPSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl93b3JrZXIgPSBuZXdfd29ya2VyKHNlbGYuX2RiLCBzZWxmLl9zY3JhcGUuc2lkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHF1ZXVlX2lkKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9xdWV1ZV9pZAoKICAgIEBxdWV1ZV9pZC5zZXR0ZXIKICAgIGRlZiBxdWV1ZV9pZChzZWxmLCBxdWV1ZV9pZCk6CiAgICAgICAgc2VsZi5fcXVldWVfaWQgPSBxdWV1ZV9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IG9ubHkgYWxsb3cgdXNlciB0byBhZGQgbmV3IHNjcmFwZXJzIHRvIGV4aXNpdG5nIHNjcmFwZXMuIFVzZXIgY2FuIHN0aWxsIGFkZCBzY3JhcGVycyB0byBTSURzIHRoYXQgYXJlIG5vdCBvcmlnaW5hdGluZyBzY3JhcGVycy4K</text>
+        <text encoding="base64">ICAgIGRlZiBuZXdfd29ya2VyKHNlbGYpOgogICAgICAgIHBhc3MKCiAgICBkZWYgcmVzdW1lX3dvcmtlcihzZWxmKToKICAgICAgICBwYXNzCgogICAgZGVmIHBhdXNlX3dvcmtlcihzZWxmKToKICAgICAgICBwYXNzCgogICAgZGVmIHN0b3Bfd29ya2VyKHNlbGYpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzY3JhcGVyOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9saXN0ZW5lci5zdGFydCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjcmFwZXIgPSBTY3JhcGVyKCkKICAgIHNjcmFwZXIuc2lkID0KICAgIHJldHVybiBkYltEQl9DT0xfU0NSQVBFUlNdLmZpbmRfb25lKHsnX2lkJzogc2lkfSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9saXN0ZW5lciA9IENvbW1hbmRMaXN0ZW5lcigKICAgICAgICAgICAgcG9ydD1zZWxmLl9wb3J0LAogICAgICAgICAgICBwYXVzZV9oYW5kbGVyPXNlbGYuX3BhdXNlX2hhbmRsZXIsCiAgICAgICAgICAgIHN0b3BfaGFuZGxlcj1zZWxmLl9zdG9wX2hhbmRsZXIKICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDx0aGF0XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx0aGF0XD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDx0aGF0XD4=</entry>
+      </history-search>
       <history-cmd>
         <entry>we</entry>
         <entry>w</entry>
@@ -141,6 +153,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
